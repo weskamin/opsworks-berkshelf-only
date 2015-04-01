@@ -1,2 +1,2 @@
-source "https://supermarket.getchef.com"
-cookbook 'confluence', '~> 0.0.2'
+source "https://supermarket.chef.io"
+cookbook 'chef-sugar', '~> 3.1.0'
