@@ -1,3 +1,3 @@
 source "https://supermarket.chef.io"
 
-cookbook 'lms', :path => 'lms-cookbooks/lms'
+cookbook 'irssi', '~> 0.2.0'
