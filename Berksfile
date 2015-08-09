@@ -1,2 +1,2 @@
 source "https://supermarket.chef.io"
-cookbook 'mysql', git: 'git://github.com/opscode-cookbooks/mysql.git'
+cookbook 'mongodb', git: 'https://github.com/geerzo/chef-mongodb.git'
