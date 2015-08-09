@@ -1,1 +1,1 @@
-cookbook 'mongodb', git: 'git@github.com:geerzo/chef-mongodb.git'
+cookbook 'mongodb', git: 'https://github.com/geerzo/chef-mongodb.git'
