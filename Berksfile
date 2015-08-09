@@ -1,1 +1,1 @@
-cookbook “mysql”, git: “https://github.com/opscode-cookbooks/mysql.git”, tag: “3.0.2”
+cookbook 'mongodb', git: 'https://github.com/geerzo/chef-mongodb.git'
