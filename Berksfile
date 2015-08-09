@@ -1,1 +1,1 @@
-cookbook 'mongodb', git: 'https://github.com/geerzo/chef-mongodb.git'
+cookbook 'mysql', git: 'git://github.com/opscode-cookbooks/mysql.git'
