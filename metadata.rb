@@ -1,0 +1,7 @@
+name             'opsworks-berkshelf-only'
+maintainer       'weskamin'
+maintainer_email 'weskamin@weskamin'
+license          'All rights reserved'
+description      'FOR TESTING THE THINGS'
+long_description 'See above'
+version          '0.2.0'
