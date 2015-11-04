@@ -2,4 +2,4 @@ source 'https://supermarket.chef.io'
 
 metadata
 
-cookbook "ssh"
+cookbook "mod_security"
