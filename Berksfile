@@ -2,4 +2,4 @@ source 'https://supermarket.chef.io'
 
 metadata
 
-cookbook "mod_security"
+cookbook 'compat_resource', '~> 12.9.1'
